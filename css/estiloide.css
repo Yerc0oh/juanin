@@ -1,0 +1,10 @@
+*{
+    margin: 50px;
+}
+body{
+    background-color: salmon;
+}
+h1{
+    color: blue;
+    font-family: 'Comic Sans MS';
+}
